@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background-image:url();
+  background:#ccc;
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,6 @@ background-color: white;
 width: 195px;
 }
 body {
-  background:url(https://farm9.staticflickr.com/8035/29666962112_37cd7e7ab8_o.jpg);
-  margin-bottom: 50px;
+  background:#fffff
+
 
