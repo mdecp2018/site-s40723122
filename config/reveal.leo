@@ -126,7 +126,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系22號
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -152,7 +152,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 s 鍵可以顯示投影片筆記 (show)
 * 按 o 鍵可以切換單張或全域檢視 (overview)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 按 Esc 可以退出全螢幕或全域檢視
+*謝謝
+ (Escape)
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
