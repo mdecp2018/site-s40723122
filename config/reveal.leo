@@ -21,8 +21,11 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181109091923.1"><vh>newHeadline</vh>
+<v t="leo.20181109091926.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -129,7 +132,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系22號
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [施東勝](https://mdecp2018.github.io/site-s40723122/content/index.html)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -328,5 +331,13 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181109091923.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109091926.1">設計一甲22號施東勝</t>
 </tnodes>
 </leo_file>
